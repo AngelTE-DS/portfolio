@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "title": "Data Scientist Semisenior",
+      "company": "KONECTA",
+      "tasks": [
+        "Construcción de modelos predictivos (supervisado y no supervisado) mediante algoritmos de machine learning para la estimación de Fuga/Deserción de clientes (Churn), Retención de clientes. ",
+        "Construcción y mantenimiento de dashboard en Power BI y procesos de carga ETL."
+      ],
+      "tags": ["Python", "Excel", "SQL", "PowerBI"],
+      "year": "2024"
+    },
+    {
       "title": "Data Scientist Consultant",
       "company": "MANAGEMENT SOLUTIONS",
       "tasks": [

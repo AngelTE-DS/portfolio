@@ -61,7 +61,7 @@ export default function AboutPage() {
             href={
               locale.includes("/en")
                 ? "https://drive.google.com/file/d/1mPAxMKi1W5rXFAjojRBVLVBJrM8mCbax/view?usp=sharing"
-                : "https://drive.google.com/file/d/1xtK1Sqqad8LjsJjrbKJXMd02GlJFM6ju/view?usp=sharing"
+                : "https://drive.google.com/file/d/10jl-CdMvsHR9aKCWmI3I9teTF-71ppDR/view?usp=drive_link"
             }
             className={cn(
               buttonVariants({ size: "lg" }),
