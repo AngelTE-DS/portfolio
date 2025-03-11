@@ -38,7 +38,7 @@ export default function AboutPage() {
               {siteConfig.job}
             </p>
           </div>
-          <p className="text-muted-foreground text-lg text-pretty py-4 self-center">
+          <p className="text-muted-foreground text-lg text-pretty py-4 self-center text-justify">
             {t("aboutDescription")}
           </p>
         </div>

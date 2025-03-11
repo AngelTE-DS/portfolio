@@ -18,7 +18,7 @@ export function SiteFooter() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="mailto:miulerbm00@gmail.com"
+            href="mailto:angelte1400@gmail.com"
           >
             <span className="sr-only">Mail</span>
             <Mail className="h-6 w-6 hover:scale-110" />

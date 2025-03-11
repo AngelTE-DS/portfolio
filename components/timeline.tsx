@@ -31,7 +31,7 @@ const Timeline = () => {
               </span>
             </div>
 
-            <div className="text-sm lg:text-lg mt-2 text-pretty text-muted-foreground">
+            <div className="text-sm lg:text-lg mt-2 text-pretty text-muted-foreground text-justify">
               <ul>
                 {item.tasks.map((task, index) => (
                   <li key={index}>&bull; {task}</li>
