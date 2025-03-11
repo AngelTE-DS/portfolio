@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "title": "Desarrollador Fullstack",
+      "company": "Keola Networks",
+      "tasks": [
+        "Desarrollo de aplicaciones web utilizando Angular.",
+        "Desarrollo de aplicaciones multiplataforma con React Native.",
+        "Integración de APIs REST para la gestión de datos."
+      ],
+      "tags": ["Angular", "React", "React Native", "TypeScript"],
+      "year": "2024"
+    },
+    {
+      "title": "Desarrollador Frontend",
+      "company": "Gope",
+      "tasks": [
+        "Implementé una aplicación backoffice con Next.js y componentes de React, integrando APIs REST para la gestión de datos.",
+        "Desarrollé una aplicación con React Native utilizando el patrón MVVM y Clean Architecture.",
+        "Estilicé componentes con Tailwind CSS e integré Redux para la gestión del estado."
+      ],
+      "tags": ["React", "React Native", "TypeScript", "Redux", "Tailwind CSS"],
+      "year": "2023"
+    },
+    {
+      "title": "Programador",
+      "company": "Inversac",
+      "tasks": [
+        "Proveí soporte TI con Python y VBA para scripting y automatización de tareas.",
+        "Desarrollé interfaces HMI con TIA Portal.",
+        "Programé PLCs utilizando SCL y Ladder."
+      ],
+      "tags": ["SCL", "Ladder", "TIA Portal", "HMI", "PLC"],
+      "year": "2022"
+    },
+    {
+      "title": "Ingeniero de TI",
+      "company": "E&C",
+      "tasks": [
+        "Brindé soporte back-office y scripting con Python, JavaScript y Macros de Visual Basic.",
+        "Diseñé ingeniería electromecánica utilizando software CAD."
+      ],
+      "tags": ["Python", "Shell", "JavaScript", "VBA"],
+      "year": "2022"
+    }
+  ]
+}

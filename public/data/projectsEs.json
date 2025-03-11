@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "title": "Análisis de Churning",
+      "image": "/images/GopeApp.webp",
+      "link": "https://www.linkedin.com/company/gope-app",
+      "tags": ["Python", "TensorFlow", "Redux"],
+      "text": "Conectando personas con diversas actividades recreativas.",
+      "indev": true,
+      "desktop": false,
+      "mobile": false
+    },
+    {
+      "title": "Gope Dashboard",
+      "image": "/images/GopeBackOffice.webp",
+      "link": "https://www.linkedin.com/company/gope-app",
+      "tags": ["Next.js", "TypeScript", "Redux", "Tailwind CSS"],
+      "text": "Aplicación backoffice implementada con NextJS y APIs REST.",
+      "indev": true,
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "title": "CaseCobra",
+      "image": "/images/CaseCobra.webp",
+      "link": "https://casecobra-woad.vercel.app",
+      "tags": ["Next.js", "Tailwind CSS", "Kinde", "Stripe"],
+      "text": "Tienda web de iPhone cases construida con Next.js y Tailwind CSS.",
+      "indev": false,
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "title": "/miulerbm",
+      "image": "/images/miulerbmBlog.webp",
+      "link": "https://miulerbm.vercel.app",
+      "tags": ["Next.js", "TypeScript", "Velite", "Tailwind CSS"],
+      "text": "Mi página web personal construida con Next.js. Bueno, estás aquí.",
+      "indev": false,
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "title": "Portafolio",
+      "image": "/images/LegacyPortfolio.webp",
+      "link": "https://legacy-portfolio-miuler.vercel.app",
+      "tags": ["Next.js", "TypeScript", "Tailwind CSS"],
+      "text": "Una portafolio web para desarrolladores de software.",
+      "indev": false,
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "title": "Juego de Pong (1v1)",
+      "image": "/images/PongGame.webp",
+      "link": "https://miulerbm.github.io/pong-js",
+      "tags": ["JavaScript", "HTML", "CSS"],
+      "text": "Juego de pong multijugador para escritorio. Construido con JavaScript, HTML y CSS.",
+      "indev": false,
+      "desktop": true,
+      "mobile": false
+    },
+    {
+      "title": "ExerSite",
+      "image": "/images/ExerciseSite.webp",
+      "link": "https://exercises-app-seven.vercel.app/",
+      "tags": ["React", "RapidAPI"],
+      "text": "Página web fitness para proporcionar tutoriales y recomendaciones.",
+      "indev": false,
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "title": "StickerSmash",
+      "image": "/images/StickerSmashApp.webp",
+      "link": "https://github.com/miulerbm/StickerSmash",
+      "tags": ["Expo", "React Native"],
+      "text": "Una aplicación de React Native construida con el framework Expo para editar stickers.",
+      "indev": false,
+      "desktop": false,
+      "mobile": true
+    }
+  ]
+}

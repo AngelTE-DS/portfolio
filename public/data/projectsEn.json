@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "title": "Gope",
+      "image": "/images/GopeApp.webp",
+      "link": "https://www.linkedin.com/company/gope-app",
+      "tags": ["React Native", "TypeScript", "Redux"],
+      "text": "Connecting people with diverse recreational activities.",
+      "indev": true,
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "title": "Gope Dashboard",
+      "image": "/images/GopeBackOffice.webp",
+      "link": "https://www.linkedin.com/company/gope-app",
+      "tags": ["Next.js", "TypeScript", "Redux", "Tailwind CSS"],
+      "text": "Backoffice application implemented with NextJS and REST APIs.",
+      "indev": true,
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "title": "CaseCobra",
+      "image": "/images/CaseCobra.webp",
+      "link": "https://casecobra-woad.vercel.app",
+      "tags": ["Next.js", "Tailwind CSS", "Kinde", "Stripe"],
+      "text": "Phone Case webstore built using Next.js, Tailwind. Auth and payment functionalities.",
+      "indev": false,
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "title": "/miulerbm",
+      "image": "/images/miulerbmBlog.webp",
+      "link": "https://miulerbm.vercel.app",
+      "tags": ["Next.js", "TypeScript", "Velite", "Tailwind CSS"],
+      "text": "My personal web page built using Next.js. Well, you're here.",
+      "indev": false,
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "title": "Portfolio",
+      "image": "/images/LegacyPortfolio.webp",
+      "link": "https://legacy-portfolio-miuler.vercel.app",
+      "tags": ["Next.js", "TypeScript", "Tailwind CSS"],
+      "text": "A portfolio page for software developers.",
+      "indev": false,
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "title": "Pong Game (1v1)",
+      "image": "/images/PongGame.webp",
+      "link": "https://miulerbm.github.io/pong-js",
+      "tags": ["JavaScript", "HTML", "CSS"],
+      "text": "Multiplayer pong game for desktop. Built using JavaScript, HTML and CSS.",
+      "indev": false,
+      "desktop": true,
+      "mobile": false
+    },
+    {
+      "title": "ExerSite",
+      "image": "/images/ExerciseSite.webp",
+      "link": "https://exercises-app-seven.vercel.app/",
+      "tags": ["React", "RapidAPI"],
+      "text": "Fitness and health web page for providing tutorials and recommendations.",
+      "indev": false,
+      "desktop": true,
+      "mobile": true
+    },
+    {
+      "title": "StickerSmash",
+      "image": "/images/StickerSmashApp.webp",
+      "link": "https://github.com/miulerbm/StickerSmash",
+      "tags": ["Expo", "React Native"],
+      "text": "A React Native application built with the Expo framework for editing stickers.",
+      "indev": false,
+      "desktop": false,
+      "mobile": true
+    }
+  ]
+}

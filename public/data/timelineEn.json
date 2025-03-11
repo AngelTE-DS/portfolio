@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "title": "Fullstack Developer",
+      "company": "Keola Networks",
+      "tasks": [
+        "Building web applications using Angular.",
+        "Building cross-platform applications with React Native.",
+        "Integrating REST APIs."
+      ],
+      "tags": ["Angular", "React", "React Native", "TypeScript"],
+      "year": "2024"
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Gope",
+      "tasks": [
+        "Implemented a backoffice application with Next.js and React components, integrating REST APIs for data management.",
+        "Developed an application with React Native using the MVVM pattern and Clean Architecture.",
+        "Styled components with Tailwind CSS and integrated Redux for state management."
+      ],
+      "tags": ["React", "React Native", "TypeScript", "Redux", "Tailwind CSS"],
+      "year": "2023"
+    },
+    {
+      "title": "Programmer",
+      "company": "Inversac",
+      "tasks": [
+        "Provided IT support with Python and VBA for scripting and task automation.",
+        "Developed HMI interfaces with TIA Portal.",
+        "Programmed PLCs using SCL and Ladder."
+      ],
+      "tags": ["SCL", "Ladder", "TIA Portal", "HMI", "PLC"],
+      "year": "2022"
+    },
+    {
+      "title": "IT Engineer",
+      "company": "E&C",
+      "tasks": [
+        "Provided back-office support and scripting with Python, JavaScript, and Visual Basic Macros.",
+        "Designed electromechanical engineering using CAD software."
+      ],
+      "tags": ["Python", "Shell", "JavaScript", "VBA"],
+      "year": "2022"
+    }
+  ]
+}

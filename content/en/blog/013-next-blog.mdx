@@ -1,0 +1,97 @@
+---
+title: Otra entrada
+description: Nuevo blog
+date: 2025-01-04
+tags: ["react"]
+published: false
+---
+
+# Intro
+
+Building modern web and mobile applications involves a lot of challenges, from managing complex UI's to ensuring efficiency and responsiveness. There was a time when developers needed to build user interaction by telling the browser what, how and when to show something to the user. Nowadays, thanks to React this has changed for better.
+
+## The Old Way
+
+The traditional approach for web development consisted on Imperative Programming, let's see the following code:
+
+```html
+<html>
+  <body>
+    <div id="app"></div>
+    <script type="text/javascript">
+      // Selecting the app element
+      const app = document.getElementById("app");
+
+      // creating a new h1 element
+      const header = document.createElement("h1");
+
+      // Create a new text node for the H1 element
+      const text = "Develop. Preview. Ship";
+      const headerContent = document.createTextNode(text);
+
+      // Append the text to the H1 element
+      header.appendChild(headerContent);
+
+      // Place the H1 element inside the div
+      app.appendChild(header);
+    </script>
+  </body>
+</html>
+```
+
+This snippet was written using the imperative programming. You can see how the developer interacts directly with the DOM by appending childs using detailed instructions. This approach has multiple steps for simple tasks and is error-prone.
+
+<aside>
+  💡 With this approach, developers used to spent a lot of time writing
+  instructions to tell the computer **how** it should do things. But wouldn't it
+  be nice to describe **what** you want to show and let the computer figure out
+  **how** to update the DOM?
+</aside>
+
+## React's approach (Declarative Programming)
+
+Let's see how React would tackle this situation:
+
+```tsx
+import React from "react";
+import ReactDOM from "react-dom";
+
+function App() {
+  return (
+    <div>
+      <h1>Develop. Preview. Ship</h1>
+    </div>
+  );
+}
+
+ReactDOM.render(<App />, document.getElementById("app"));
+```
+
+React's version is way easier and cleaner. Here's how it does it:
+
+1. Simplicity and Readability: React's declarative syntax makes the code more readable and easier to understand. Developers can quickly grasp the structure of the UI and make changes without diving into low-level DOM manipulation.
+
+2. Component-Based Architecture: React encourages breaking down the UI into reusable components. This modular approach promotes code reuse, easier maintenance, and better organization of the codebase.
+
+3. State Management: React efficiently manages the state of the application. Developers can focus on the application logic, and React takes care of updating the UI when the state changes, ensuring a seamless user experience.
+
+4. Virtual DOM: React's Virtual DOM improves performance by minimizing direct manipulations of the actual DOM. It batches updates and applies them efficiently, resulting in faster and more responsive applications.
+
+5. Community and Ecosystem: React has a vast and active community, providing a wealth of resources, libraries, and tools that simplify development. From state management libraries like Redux to styling solutions like Styled Components, the React ecosystem has solutions for various challenges.
+
+# Conclusion
+
+React revolutionizes the way developers build web applications by simplifying the development process and enhancing productivity. By adopting a declarative approach, using a component-based architecture, and efficiently managing the state and DOM, React allows developers to focus on what matters most: building great user experiences.
+
+---
+
+<div className="flex gap-2">
+  Original ideas from:
+  <a
+    className="no-underline hover:underline "
+    target="_blank"
+    href="https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs"
+  >
+    &commat;vercel
+  </a>
+</div>
