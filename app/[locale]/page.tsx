@@ -30,7 +30,7 @@ export default function Home() {
           <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-black text-balance">
             {t("helloIAm")}
             <div className="hover:text-teal-600 inline-block">
-              <a href={createHref("/about")}>Angel</a>
+              <a href={createHref("/about")}>Angel Terrones E.</a>
             </div>
           </h1>
           <p className="max-w-[42rem] mx-auto text-muted-foreground sm:text-xl text-balance">

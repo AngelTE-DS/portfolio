@@ -1,46 +1,45 @@
 {
   "data": [
     {
-      "title": "Desarrollador Fullstack",
-      "company": "Keola Networks",
+      "title": "Data Scientist Consultant",
+      "company": "MANAGEMENT SOLUTIONS",
       "tasks": [
-        "Desarrollo de aplicaciones web utilizando Angular.",
-        "Desarrollo de aplicaciones multiplataforma con React Native.",
-        "Integración de APIs REST para la gestión de datos."
+        "Construcción de modelos predictivos (supervisado y no supervisado) mediante algoritmos de machine learning para la estimación de Fuga/Deserción de clientes (Churn), Retención de clientes. ",
+        "Construcción y mantenimiento de dashboard en Power BI y procesos de carga ETL."
       ],
-      "tags": ["Angular", "React", "React Native", "TypeScript"],
+      "tags": ["Python", "Excel", "SQL", "PowerBI"],
       "year": "2024"
     },
     {
-      "title": "Desarrollador Frontend",
-      "company": "Gope",
+      "title": "Analista De Data y Cobranzas",
+      "company": "DINERS CLUB S.A.",
       "tasks": [
-        "Implementé una aplicación backoffice con Next.js y componentes de React, integrando APIs REST para la gestión de datos.",
-        "Desarrollé una aplicación con React Native utilizando el patrón MVVM y Clean Architecture.",
-        "Estilicé componentes con Tailwind CSS e integré Redux para la gestión del estado."
+        "Desarrollé e implementé un modelo de clasificación aplicando árboles de decisión para nuevas segmentaciones y así incrementar el recupero.",
+        "Diseño de la gestión de cartera mediante la construcción de perfiles de clientes diferenciados por uso de canales digitales e información financiera. (modelo no supervisado) ",
+        "Reducción de la provisión y recuperación de deuda en la cartera al construir un modelo que mide la probabilidad de migrar de un rango de mora a otro. "
       ],
-      "tags": ["React", "React Native", "TypeScript", "Redux", "Tailwind CSS"],
+      "tags": ["Python", "Excel", "SQL", "PowerBI"],
       "year": "2023"
     },
     {
-      "title": "Programador",
-      "company": "Inversac",
+      "title": "Asistente Data Science - Riesgo Crediticio",
+      "company": "DINERS CLUB S.A.",
       "tasks": [
         "Proveí soporte TI con Python y VBA para scripting y automatización de tareas.",
         "Desarrollé interfaces HMI con TIA Portal.",
         "Programé PLCs utilizando SCL y Ladder."
       ],
-      "tags": ["SCL", "Ladder", "TIA Portal", "HMI", "PLC"],
-      "year": "2022"
+      "tags": ["Python", "Excel", "SQL", "PowerBI"],
+      "year": "2023"
     },
     {
-      "title": "Ingeniero de TI",
-      "company": "E&C",
+      "title": "Asistente de Datos y Proyectos TI",
+      "company": "INGENIO AZUCARERO AGROLMOS S.A.",
       "tasks": [
-        "Brindé soporte back-office y scripting con Python, JavaScript y Macros de Visual Basic.",
-        "Diseñé ingeniería electromecánica utilizando software CAD."
+        "Realicé un proyecto de visión artificial para el conteo de bolsas de azúcar en el área de envasado, reemplazando un proyecto que estimaba un costo de 14 mil dólares por una empresa especializada en visión artificial.",
+        "Realicé un proyecto utilizando redes neuronales mediante el algoritmo K-Nearest-Neighbor, capaz de predecir la sobresaturación de los granos en el proceso de cristalización del azúcar, mejorando la eficiencia en un 20%, utilizando el lenguaje de programación Python. "
       ],
-      "tags": ["Python", "Shell", "JavaScript", "VBA"],
+      "tags": ["Python", "Excel", "SQL", "PowerBI"],
       "year": "2022"
     }
   ]
