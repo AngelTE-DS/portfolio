@@ -8,7 +8,7 @@
         "Construcción y mantenimiento de dashboard en Power BI y procesos de carga ETL."
       ],
       "tags": ["Python", "Excel", "SQL", "PowerBI"],
-      "year": "2024"
+      "year": "2025"
     },
     {
       "title": "Data Scientist Consultant",
@@ -35,9 +35,8 @@
       "title": "Asistente Data Science - Riesgo Crediticio",
       "company": "DINERS CLUB S.A.",
       "tasks": [
-        "Proveí soporte TI con Python y VBA para scripting y automatización de tareas.",
-        "Desarrollé interfaces HMI con TIA Portal.",
-        "Programé PLCs utilizando SCL y Ladder."
+        "Realicé un modelo no paramétrico (LIGHT GBM) para la segmentación de clientes de la campaña mensual de originación de tarjeta de crédito, esto permitió incrementar el número de colocaciones de TC.",
+        "Realicé un proyecto de web scraping para la obtención de data proveniente de la RENIEC. Se obtuvo un total de 24 millones de datos de 4 millones de personas distintas"
       ],
       "tags": ["Python", "Excel", "SQL", "PowerBI"],
       "year": "2023"

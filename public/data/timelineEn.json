@@ -1,46 +1,53 @@
 {
   "data": [
     {
-      "title": "Fullstack Developer",
+      "title": "Data Scientist Semisenior",
       "company": "Keola Networks",
       "tasks": [
         "Building web applications using Angular.",
         "Building cross-platform applications with React Native.",
         "Integrating REST APIs."
       ],
-      "tags": ["Angular", "React", "React Native", "TypeScript"],
+      "tags": ["Python", "Excel", "SQL", "PowerBI"],
+      "year": "2025"
+    },
+    {
+      "title": "Data Scientist Consultant",
+      "company": "Keola Networks",
+      "tasks": [
+        "Building web applications using Angular.",
+        "Building cross-platform applications with React Native.",
+        "Integrating REST APIs."
+      ],
+      "tags": ["Python", "Excel", "SQL", "PowerBI"],
       "year": "2024"
     },
     {
-      "title": "Frontend Developer",
-      "company": "Gope",
+      "title": "Data and Collections Analyst",
+      "company": "DINERS CLUB S.A.",
       "tasks": [
-        "Implemented a backoffice application with Next.js and React components, integrating REST APIs for data management.",
-        "Developed an application with React Native using the MVVM pattern and Clean Architecture.",
-        "Styled components with Tailwind CSS and integrated Redux for state management."
-      ],
-      "tags": ["React", "React Native", "TypeScript", "Redux", "Tailwind CSS"],
+        "I developed and implemented a classification model using decision trees for new segmentations and thus increased recovery.",
+        "Designed portfolio management by building customer profiles differentiated by the use of digital channels and financial information. (unsupervised model)",
+        "Reduced provisioning and debt recovery in the portfolio by building a model that measures the probability of migrating from one default range to another. "],
+      "tags": ["Python", "Excel", "SQL", "PowerBI"],
       "year": "2023"
     },
     {
-      "title": "Programmer",
-      "company": "Inversac",
+      "title": "Data Science Assistant - Credit Risk",
+      "company": "DINERS CLUB S.A.",
       "tasks": [
-        "Provided IT support with Python and VBA for scripting and task automation.",
-        "Developed HMI interfaces with TIA Portal.",
-        "Programmed PLCs using SCL and Ladder."
-      ],
-      "tags": ["SCL", "Ladder", "TIA Portal", "HMI", "PLC"],
+        "I created a non-parametric model (LIGHT GBM) for customer segmentation for the monthly credit card origination campaign, which allowed us to increase the number of credit card placements.",
+        "I created a web scraping project to obtain data from RENIEC. A total of 24 million data from 4 million different people were obtained."],
+      "tags": ["Python", "Excel", "SQL", "PowerBI"],
       "year": "2022"
     },
     {
-      "title": "IT Engineer",
-      "company": "E&C",
+      "title": "IT Data and Projects Assistant",
+      "company": "INGENIO AZUCARERO AGROLMOS S.A.",
       "tasks": [
-        "Provided back-office support and scripting with Python, JavaScript, and Visual Basic Macros.",
-        "Designed electromechanical engineering using CAD software."
-      ],
-      "tags": ["Python", "Shell", "JavaScript", "VBA"],
+        "I carried out a machine vision project for counting sugar bags in the packaging area, replacing a project that was estimated to cost 14 thousand dollars by a company specialized in machine vision.",
+        "I carried out a project using neural networks through the K-Nearest-Neighbor algorithm, capable of predicting the supersaturation of grains in the sugar crystallization process, improving efficiency by 20%, using the Python programming language. "],
+      "tags": ["Python", "Excel", "SQL", "PowerBI"],
       "year": "2022"
     }
   ]
