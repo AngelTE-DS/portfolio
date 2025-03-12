@@ -1,5 +1,6 @@
 export const siteConfig = {
   name: "Angel Terrones - Portfolio",
+  name_2: "Angel Terrones",
   url: "https://angelterrones.vercel.app/",
   description: "Angel Terrones personal website.",
   author: "Angel Terrones Escobedo",

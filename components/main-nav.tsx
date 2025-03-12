@@ -23,7 +23,9 @@ export function MainNav() {
         className="mr-6 flex items-center space-x-2 hover:scale-105"
       >
         <Icons.logo className="h-6 w-6" />
-        <span className="font-bold hover:text-teal-600">{siteConfig.name}</span>
+        <span className="font-bold hover:text-teal-600">
+          {siteConfig.name_2}
+        </span>
       </Link>
       <Link
         href={createHref("/about")}
