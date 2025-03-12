@@ -1,11 +1,12 @@
 {
   "helloIAm": "¡Hola! Soy ",
-  "miulerDescription": "Científico de Datos",
+  "miulerDescription": "Convierto datos en soluciones mágicas y decisiones inteligentes. ¡La ciencia de datos hecha arte! 📊",
   "visitMyBlog": "Visitar mi Blog",
   "projects": "Proyectos",
   "latestPosts": "Posts Recientes",
   "about": "Acerca de mí",
   "aboutMe": "Acerca de mí",
+  "moreAboutMe": "Conoce más de mí",
   "aboutDescription": "Ingeniero Mecatrónico con más de 3 años de experiencia en Retail y Banca. Cursando Maestría en Ciencia de Datos, con especializaciones en Ciencia de Datos y Estadística Aplicada. Experto en Python, R, SQL Server, Excel, Visual Studio y Power BI. Experiencia en ETL, gestión de datos, BI, Machine Learning y modelos analíticos. Enfoque proactivo y orientado a la mejora continua.",
   "myExperience": "Mi experiencia",
   "getMyCV": "Obtén mi CV",
